@@ -1,0 +1,5 @@
+tick,task_id,new_priority
+10,1,2
+10,2,2
+10,3,1
+10,4,4
