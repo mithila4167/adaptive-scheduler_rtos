@@ -4,10 +4,10 @@ A lightweight RTOS simulator written in C.
 
 ## Features
 
-- Task creation (to be implemented)
-- Scheduler (to be implemented)
-- Inter-process communication (to be implemented)
-- Timers (to be implemented)
+- Task creation 
+- Scheduler 
+- Inter-process communication 
+- Timers 
 
 ## Build Instructions
 
